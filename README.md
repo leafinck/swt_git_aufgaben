@@ -24,7 +24,7 @@ Repository wurde auf GitHub erstellt und auf public gesetzt.
 ![](Screenshots/Git_rm_Screenshot.png)
 
 ### git pull
-![](Screenshots/Git_rm_Screenshot.png)
+![](Screenshots/Git_pull_Screenshot.png)
 
 ### git mv
 ![](Screenshots/Git_mv_Screenshot.png)
