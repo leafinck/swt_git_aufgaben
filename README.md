@@ -24,6 +24,7 @@ Repository wurde auf GitHub erstellt und auf public gesetzt.
 ![](Screenshots/Git_rm_Screenshot.png)
 
 ### git pull
+![](Screenshots/Git_rm_Screenshot.png)
 
 ### git mv
 ![](Screenshots/Git_mv_Screenshot.png)
@@ -51,3 +52,5 @@ Repository wurde auf GitHub erstellt und auf public gesetzt.
 
 ## 6: Pull-Request
 Pull-Request #616: [[LINK](https://github.com/edlich/education/pull/616)]
+
+Screenshot: ![](Screenshots/Repo_Beitrag.png)
